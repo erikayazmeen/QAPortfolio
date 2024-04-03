@@ -21,6 +21,7 @@ My Linkedin profile (https://www.linkedin.com/in/erika-yazmeen-651238193/)
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1UPBs-OrvYULlY0x6ZombEdgr1cftRB5X/view?usp=drive_link).
 ## Skills
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+
 __Manual testing__
   * can perform manual functional and gained hands-on experience by testing web applications, applications (adroid & ios) and game applications
 
@@ -32,11 +33,14 @@ __Test documentation__
 __Jira__
   * know how to create bug reports
   * know how to create enhancement requirements from clients and track developer's progress
+
 __Confluence__
   * know how to create test documentation
   * able to create user manual and product requirements documentation
 
 ### My experience
 I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+
 ### Tools :wrench:
+
 * [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence) 
