@@ -8,19 +8,13 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ### About me
-I am organised, structured and attentive to detail. And on the other, due to my personality, I love to communicate with people and solve problems.
-
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I am organised, structured and attentive to detail. And on the other, due to my personality, I love to communicate with people and solve problems. I got my Diploma from Polytechnic Seberang Perai, Penang as Digital Technology student for 3 years. Currently working in Tehcninier Sdn Bhd as a Software Quality Assurance Engineer for 2 years and 6 months. During my first year, I have intensively studying techniques and tools by attending online courses in Udemy provided by my current company and have been manual testing their web applications, applications (android and ios) and game applications. Our projects mainly focusing on government services. I do also learn on how to write product requirement documentation and documentate client's requirements.
 
 My Linkedin profile (https://www.linkedin.com/in/erika-yazmeen-651238193/)
+
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1UPBs-OrvYULlY0x6ZombEdgr1cftRB5X/view?usp=drive_link).
 ## Skills
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and gained hands-on experience by testing web applications, applications (adroid & ios) and game applications
@@ -38,8 +32,27 @@ __Confluence__
   * know how to create test documentation
   * able to create user manual and product requirements documentation
 
-### My experience
-I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+## Examples of my work
+
+### Test cases and work in TestRail
+
+- [The training webshop](http://automationpractice.com/) was used to create demo test cases
+  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+
+- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
+  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
+  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+
+
+### Bug reports and work in Jira
+
+- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
+* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
 ### Tools :wrench:
 
