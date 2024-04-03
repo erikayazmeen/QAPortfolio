@@ -1,4 +1,3 @@
-# QAPortfolio
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
