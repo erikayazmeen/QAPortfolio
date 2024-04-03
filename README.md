@@ -1,3 +1,8 @@
 # QAPortfolio
-About me 👋
+### About me :wave:
 Hi, my name is Erika. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. I hope that in the future I can become someone who professionally takes care of the quality of products and services. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field. I have also recently started learning test automation in Python, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+[My Linkedin profile]([https://www.linkedin.com/in/paulina-rybicka/](https://www.linkedin.com/in/erika-yazmeen-651238193/))
+### My experience :office:
+I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+### Tools :wrench:
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
