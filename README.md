@@ -13,7 +13,7 @@
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 [My Linkedin profile]([https://www.linkedin.com/in/paulina-rybicka/](https://www.linkedin.com/in/erika-yazmeen-651238193/))
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1UPBs-OrvYULlY0x6ZombEdgr1cftRB5X/view?usp=drive_link).
 ## Skills
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 __Manual testing__
