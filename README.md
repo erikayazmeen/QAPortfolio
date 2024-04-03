@@ -22,8 +22,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ## Skills
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * can perform manual functional and gained hands-on experience by testing web applications, applications (adroid & ios) and game applications
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
@@ -32,10 +31,12 @@ __Test documentation__
 ## Tools
 __Jira__
   * know how to create bug reports
-  * able to create projects and track their progress
-
+  * know how to create enhancement requirements from clients and track developer's progress
+__Confluence__
+  * know how to create test documentation
+  * able to create user manual and product requirements documentation
 
 ### My experience
 I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
+* [Jira](https://www.atlassian.com/pl/software/jira), [Cinfluence](https://trello.com/pl/tour) - project management
