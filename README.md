@@ -39,4 +39,4 @@ __Confluence__
 ### My experience
 I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Cinfluence](https://trello.com/pl/tour) - project management
+* [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence) 
