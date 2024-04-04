@@ -70,6 +70,7 @@ Game Testing For Every New Built Version Released in Android & IOS -
   * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rSBOj0qGZFuLkgbEySVLgEsrHukN35EuBw-wgmMHNjY/edit?usp=sharing)
 
 ### Bug reports and work in Jira
+
 - Generic Shop by TestArmy
  * Test plan
  * Scenario and test cases
