@@ -34,7 +34,7 @@ __Confluence__(https://www.atlassian.com/software/confluence)
 ## Examples of my project that has tested (released to production)
 Web Testing
  * Koridor Utiliti Johor Sdn Bhd (KUJ) - An online platform that allows construction professionals to apply and obtain necessary approvals or licenses before starting their underground utility projects
-    - Number of test cases: 
+    - Number of test cases: 296
  * iBuyback Web - For government usage to track user's recycle progress
     - Number of test cases: 74
  * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments
