@@ -34,7 +34,7 @@ __Confluence__(https://www.atlassian.com/software/confluence)
 
 ## Examples of my project that has tested (released to production)
   * Web Testing - Koridor Utiliti Johor Sdn Bhd (KUJ), iBuyback Web and Esukan.gg and Excitix E-ticketing System
-  * Mobile Application Testing Adnroid & IOS - SWAPP, iBuyback, Excitix E-ticketing System
+  * Mobile Application Testing Android & IOS - SWAPP, iBuyback, Excitix E-ticketing System
   * Game Testing For Every New Built Version Released in Android & IOS - Doink Doink, Nug Nug, Frog Wars, Super Jones 2, Katmy, Ghost Force, FlareBlitz, Flare Up Chronicles and Sky Invasion:Reboot
 
 ### Test cases examples that I did
