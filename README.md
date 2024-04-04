@@ -32,7 +32,10 @@ __Confluence__
   * know how to create test documentation
   * able to create user manual and product requirements documentation
 
-## Examples of my work
+## Examples of my project that has tested (released to production)
+  * Web Testing - Koridor Utiliti Johor Sdn Bhd (KUJ), iBuyback Web and Esukan.gg and Excitix E-ticketing System
+  * Mobile Application Testing Adnroid & IOS - SWAPP, iBuyback, Excitix E-ticketing System
+  * Game Testing For Every New Built Version Released in Android & IOS - Doink Doink, Nug Nug, Frog Wars, Super Jones 2, Katmy, Ghost Force, FlareBlitz, Flare Up Chronicles and Sky Invasion:Reboot
 
 ### Test cases and work in TestRail
 
