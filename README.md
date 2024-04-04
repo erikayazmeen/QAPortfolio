@@ -35,21 +35,31 @@ __Confluence__(https://www.atlassian.com/software/confluence)
 Web Testing
  * Koridor Utiliti Johor Sdn Bhd (KUJ) - An online platform that allows construction professionals to apply and obtain necessary approvals or licenses before starting their underground utility projects
     - Number of test cases: 296
+    - Focus on test case creation, test case execution, finding defects and create bug report
  * iBuyback Web - For government usage to track user's recycle progress
     - Number of test cases: 74
+    - Focus on test case creation, test case execution, finding defects and create bug report
  * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments
+    - Focus on test case execution, finding defects and create bug report
  * Excitix E-ticketing System - Online platform for Event Organiser to organize an event and e-ticketing
+    - Focus on test case execution, finding defects and create bug report
  * iPeople - Web applications for Council management to track progress and divide task to people in charge
+    - Focus on finding defects and create bug report
  * Celcom Checkpoint - online platform for user to buy game credits top-up store by Celcom
     - Number of test cases: 33
+    - Focus on test case creation, test case execution, finding defects and create bug report
 
 Mobile Application Testing Android & IOS
  * SWAPP - An online platform to create a digital business card
    - Number of test cases: 93
+   - Focus on test case creation, test case execution, finding defects and create bug report
  * iBuyback - An online Recycling reward program exclusively for residents of Kuching South area
    - Number of test cases: 76
+   - Focus on test case creation, test case execution, finding defects and create bug report
  * Excitix E-ticketing System - A scanner app for event organiser to scan QR code of a ticket holder for checking in and checking out
+   - Focus on finding defects and create bug report
  * iPeople - A mobile application seamless channel for reporting and addressing municipal issues within Sarawak area
+   - Focus on finding defects and create bug report
 
 Game Testing For Every New Built Version Released in Android & IOS -
  * Doink Doink
