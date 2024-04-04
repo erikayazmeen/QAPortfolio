@@ -33,9 +33,25 @@ __Confluence__(https://www.atlassian.com/software/confluence)
   * able to create user manual and product requirements documentation
 
 ## Examples of my project that has tested (released to production)
-  * Web Testing - Koridor Utiliti Johor Sdn Bhd (KUJ), iBuyback Web and Esukan.gg and Excitix E-ticketing System
-  * Mobile Application Testing Android & IOS - SWAPP, iBuyback, Excitix E-ticketing System
-  * Game Testing For Every New Built Version Released in Android & IOS - Doink Doink, Nug Nug, Frog Wars, Super Jones 2, Katmy, Ghost Force, FlareBlitz, Flare Up Chronicles and Sky Invasion:Reboot
+- Web Testing
+ * Koridor Utiliti Johor Sdn Bhd (KUJ) - This online platform allows construction professionals to apply and obtain necessary approvals or licenses before starting their underground utility projects
+ * iBuyback Web - Recycling reward program exclusively for residents of Kuching South area
+ * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments.
+ * Excitix E-ticketing System - Online platform for Event Organiser to organize an event and e-ticketing
+- Mobile Application Testing Android & IOS
+ * SWAPP - An online platform to cread a digital business card
+ * iBuyback
+ * Excitix E-ticketing System
+- Game Testing For Every New Built Version Released in Android & IOS -
+ * Doink Doink
+ * Nug Nug
+ * Frog Wars
+ * Super Jones 2
+ * Katmy
+ * Ghost Force
+ * FlareBlitz
+ * Flare Up Chronicles
+ * Sky Invasion:Reboot
 
 ### Test cases examples that I did
 
