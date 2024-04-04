@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#Examples-of-my-project-that-has-tested (released to production))
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test cases that I did](#test-cases-that-I-did)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ### About me
@@ -37,7 +37,7 @@ __Confluence__
   * Mobile Application Testing Adnroid & IOS - SWAPP, iBuyback, Excitix E-ticketing System
   * Game Testing For Every New Built Version Released in Android & IOS - Doink Doink, Nug Nug, Frog Wars, Super Jones 2, Katmy, Ghost Force, FlareBlitz, Flare Up Chronicles and Sky Invasion:Reboot
 
-### Test cases and work in TestRail
+### Test cases examples that I did
 
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/index.php) was used to create demo test cases
   * Test case for validate mandatory field checking, validate maximum character limit handling, validate format for field Name and validate minimum character 
