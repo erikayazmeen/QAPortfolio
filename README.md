@@ -1,11 +1,4 @@
 # Portfolio
-- [About me](#about-me)
-- [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Examples of my work](#Examples-of-my-project-that-has-tested (released to production))
-  * [Test cases that I did](#test-cases-examples-that-I-did)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ### About me
 I am organised, structured and attentive to detail. And on the other, due to my personality, I love to communicate with people and solve problems. I got my Diploma from Polytechnic Seberang Perai, Penang as Digital Technology student for 3 years. Currently working in Tehcninier Sdn Bhd as a Software Quality Assurance Engineer for 2 years and 6 months. During my first year, I have intensively studying techniques and tools by attending online courses in Udemy provided by my current company and have been manual testing their web applications, applications (android and ios) and game applications. Our projects mainly focusing on government services. I do also learn on how to write product requirement documentation and documentate client's requirements.
