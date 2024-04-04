@@ -41,37 +41,20 @@ __Confluence__(https://www.atlassian.com/software/confluence)
 ## Examples of my project that has tested (released to production)
 Web Testing
  * Koridor Utiliti Johor Sdn Bhd (KUJ) - An online platform that allows construction professionals to apply and obtain necessary approvals or licenses before starting their underground utility projects
- * iBuyback Web - For government usage to track user's recycle progress 
- * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments.
+    - Number of test cases:
+ * iBuyback Web - For government usage to track user's recycle progress
+    - Number of test cases:
+ * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments
  * Excitix E-ticketing System - Online platform for Event Organiser to organize an event and e-ticketing
  * iPeople - Web applications for Council management to track progress and divide task to people in charge
 
 Mobile Application Testing Android & IOS
  * SWAPP - An online platform to cread a digital business card
+   - Number of test cases:
  * iBuyback - An online Recycling reward program exclusively for residents of Kuching South area
+   - Number of test cases:
  * Excitix E-ticketing System - A scanner app for event organiser to scan QR code of a ticket holder for checking in and checking out
  * iPeople - A mobile application seamless channel for reporting and addressing municipal issues within Sarawak area
-
-Number of test cases and bugs detected, reported and fixed
-
-KUJ
- * Number of test cases:
- * Bugs detected, reported and fixed : 76
-
-SWAPP
- * Number of test cases:
- * Bugs detected, reported and fixed: 3
-
-iBuyback
- * Number of test cases:
- * Bugs detected, reported and fixed: 11
-
-Esukan
- * Number of test cases:
- * Bugs detected, reported and fixed: 43
-
-iPeople
- * Bugs detected, reported and fixed: 5
 
 Game Testing For Every New Built Version Released in Android & IOS -
  * Doink Doink
@@ -83,6 +66,11 @@ Game Testing For Every New Built Version Released in Android & IOS -
  * FlareBlitz
  * Flare Up Chronicles
  * Sky Invasion:Reboot
+
+## My JIRA Dashboard
+Here showcase how many bugs created, reported and fixed, new feature requested by client reported
+[the screenshot of the JIRA Dashboard in Jira](https://drive.google.com/file/d/16XgBeTFULiaGWkB7BCvgp6PM3j2i0zxf/view?usp=sharing).
+
 
 ### Test cases samples that I did
 
