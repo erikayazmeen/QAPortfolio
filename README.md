@@ -40,7 +40,8 @@ __Confluence__
 ### Test cases and work in TestRail
 
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/index.php) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rSBOj0qGZFuLkgbEySVLgEsrHukN35EuBw-wgmMHNjY/edit?usp=sharing)
+  * Test case for validate mandatory field checking, validate maximum character limit handling, validate format for field Name and validate minimum character 
+  * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rSBOj0qGZFuLkgbEySVLgEsrHukN35EuBw-wgmMHNjY/edit?usp=sharing)
 
 ### Bug reports and work in Jira
 
