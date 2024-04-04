@@ -23,6 +23,12 @@ __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
+__Basic HTML and CSS__
+
+__Create Bug Reports and track progress__
+
+
+
 ## Tools
 __Jira__(https://www.atlassian.com/software/jira)
   * know how to create bug reports
@@ -57,13 +63,18 @@ Game Testing For Every New Built Version Released in Android & IOS -
  * Flare Up Chronicles
  * Sky Invasion:Reboot
 
-### Test cases examples that I did
+### Test cases samples that I did
 
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/index.php) was used to create demo test cases refer (https://drive.google.com/file/d/1xsYlXEgVY93asE73mEI7Q45M12NgT391/view?usp=drive_link) 
   * Test case for validate mandatory field checking, validate maximum character limit handling, validate format for field Name and validate minimum character 
   * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rSBOj0qGZFuLkgbEySVLgEsrHukN35EuBw-wgmMHNjY/edit?usp=sharing)
 
 ### Bug reports and work in Jira
+- Generic Shop by TestArmy
+ * Test plan
+ * Scenario and test cases
+ * Bug report
+
 
 - Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
