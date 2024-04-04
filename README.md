@@ -24,16 +24,13 @@ __Test documentation__
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 ## Tools
-__Jira__
+__Jira__(https://www.atlassian.com/software/jira)
   * know how to create bug reports
   * know how to create enhancement requirements from clients and track developer's progress
 
-__Confluence__
+__Confluence__(https://www.atlassian.com/software/confluence)
   * know how to create test documentation
   * able to create user manual and product requirements documentation
-
-### Tools :wrench:
-* [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence) 
 
 ## Examples of my project that has tested (released to production)
   * Web Testing - Koridor Utiliti Johor Sdn Bhd (KUJ), iBuyback Web and Esukan.gg and Excitix E-ticketing System
