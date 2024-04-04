@@ -52,6 +52,27 @@ Mobile Application Testing Android & IOS
  * Excitix E-ticketing System - A scanner app for event organiser to scan QR code of a ticket holder for checking in and checking out
  * iPeople - A mobile application seamless channel for reporting and addressing municipal issues within Sarawak area
 
+Number of test cases and bugs detected, reported and fixed
+
+KUJ
+ * Number of test cases:
+ * Bugs detected, reported and fixed : 76
+
+SWAPP
+ * Number of test cases:
+ * Bugs detected, reported and fixed: 3
+
+iBuyback
+ * Number of test cases:
+ * Bugs detected, reported and fixed: 11
+
+Esukan
+ * Number of test cases:
+ * Bugs detected, reported and fixed: 43
+
+iPeople
+ * Bugs detected, reported and fixed: 5
+
 Game Testing For Every New Built Version Released in Android & IOS -
  * Doink Doink
  * Nug Nug
