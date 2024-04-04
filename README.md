@@ -32,6 +32,9 @@ __Confluence__
   * know how to create test documentation
   * able to create user manual and product requirements documentation
 
+### Tools :wrench:
+* [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence) 
+
 ## Examples of my project that has tested (released to production)
   * Web Testing - Koridor Utiliti Johor Sdn Bhd (KUJ), iBuyback Web and Esukan.gg and Excitix E-ticketing System
   * Mobile Application Testing Adnroid & IOS - SWAPP, iBuyback, Excitix E-ticketing System
@@ -50,7 +53,3 @@ __Confluence__
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
-### Tools :wrench:
-
-* [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence) 
