@@ -10,7 +10,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ## Skills
 
 __Manual testing__
-  * can perform manual functional and gained hands-on experience by testing web applications, applications (adroid & ios) and game applications
+  * can perform manual functional and gained hands-on experience by testing web applications, applications (android & ios) and game applications
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
@@ -28,7 +28,7 @@ __Jira__(https://www.atlassian.com/software/jira)
   * know how to create enhancement requirements from clients and track developer's progress
 
 __Confluence__(https://www.atlassian.com/software/confluence)
-  * know how to create test documentation
+  * know how to create test cases
   * able to create user manual and product requirements documentation
 
 ## Examples of my project that has tested (released to production)
