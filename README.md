@@ -34,18 +34,20 @@ __Confluence__(https://www.atlassian.com/software/confluence)
 ## Examples of my project that has tested (released to production)
 Web Testing
  * Koridor Utiliti Johor Sdn Bhd (KUJ) - An online platform that allows construction professionals to apply and obtain necessary approvals or licenses before starting their underground utility projects
-    - Number of test cases:
+    - Number of test cases: 
  * iBuyback Web - For government usage to track user's recycle progress
-    - Number of test cases:
+    - Number of test cases: 74
  * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments
  * Excitix E-ticketing System - Online platform for Event Organiser to organize an event and e-ticketing
  * iPeople - Web applications for Council management to track progress and divide task to people in charge
+ * Celcom Checkpoint - online platform for user to buy game credits top-up store by Celcom
+    - Number of test cases: 33
 
 Mobile Application Testing Android & IOS
- * SWAPP - An online platform to cread a digital business card
-   - Number of test cases:
+ * SWAPP - An online platform to create a digital business card
+   - Number of test cases: 93
  * iBuyback - An online Recycling reward program exclusively for residents of Kuching South area
-   - Number of test cases:
+   - Number of test cases: 76
  * Excitix E-ticketing System - A scanner app for event organiser to scan QR code of a ticket holder for checking in and checking out
  * iPeople - A mobile application seamless channel for reporting and addressing municipal issues within Sarawak area
 
@@ -62,7 +64,7 @@ Game Testing For Every New Built Version Released in Android & IOS -
 
 ## My JIRA Dashboard
 Here showcase how many bugs created, reported and fixed, new feature requested by client reported
-[the screenshot of the JIRA Dashboard in Jira](https://drive.google.com/file/d/1S_f_kKUgyN3oEMdzL6CWPFZeKS5PHDRN/view?usp=sharing).
+[the screenshot of the JIRA Dashboard in Jira](https://drive.google.com/file/d/16A2h00KJ9q0MKAtaMMPBToEVHlOHHB-u/view?usp=sharing).
 
 
 ### Test cases samples that I did
