@@ -62,7 +62,7 @@ Game Testing For Every New Built Version Released in Android & IOS -
 
 ## My JIRA Dashboard
 Here showcase how many bugs created, reported and fixed, new feature requested by client reported
-[the screenshot of the JIRA Dashboard in Jira](https://drive.google.com/file/d/16XgBeTFULiaGWkB7BCvgp6PM3j2i0zxf/view?usp=sharing).
+[the screenshot of the JIRA Dashboard in Jira](https://drive.google.com/file/d/1S_f_kKUgyN3oEMdzL6CWPFZeKS5PHDRN/view?usp=sharing).
 
 
 ### Test cases samples that I did
