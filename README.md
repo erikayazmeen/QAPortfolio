@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#Examples-of-my-project-that-has-tested (released to production))
-  * [Test cases that I did](#test-cases-that-I-did)
+  * [Test cases that I did](#test-cases-examples-that-I-did)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ### About me
