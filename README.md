@@ -38,10 +38,12 @@ Web Testing
  * iBuyback Web - Recycling reward program exclusively for residents of Kuching South area
  * Esukan.gg - Esports online platform for gamers and organizers to create, manage and join tournaments.
  * Excitix E-ticketing System - Online platform for Event Organiser to organize an event and e-ticketing
+
 Mobile Application Testing Android & IOS
  * SWAPP - An online platform to cread a digital business card
  * iBuyback
  * Excitix E-ticketing System
+
 Game Testing For Every New Built Version Released in Android & IOS -
  * Doink Doink
  * Nug Nug
