@@ -17,10 +17,10 @@ __Test documentation__
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __Basic HTML and CSS__
+  * self-learn basic knowledge of HTML and CSS 
 
 __Create Bug Reports and track progress__
-
-
+  * able to create bug reports and track progress using JIRA software tools
 
 ## Tools
 __Jira__(https://www.atlassian.com/software/jira)
