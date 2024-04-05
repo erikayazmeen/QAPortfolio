@@ -84,15 +84,3 @@ Here showcase how many bugs created, reported and fixed, new feature requested b
   * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rSBOj0qGZFuLkgbEySVLgEsrHukN35EuBw-wgmMHNjY/edit?usp=sharing)
 
 ## Bug reports and work in Jira
-
-- Generic Shop by TestArmy
- * Test plan
- * Scenario and test cases
- * Bug report
-
-
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
