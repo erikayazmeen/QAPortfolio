@@ -78,9 +78,9 @@ Here showcase how many bugs created, reported and fixed, new feature requested b
 
 
 ## Test cases samples that I did
-
-- [Testing Challenges](http://testingchallenges.thetestingmap.org/index.php) was used to create demo test cases refer (https://drive.google.com/file/d/1xsYlXEgVY93asE73mEI7Q45M12NgT391/view?usp=drive_link) 
-  * Test case for validate mandatory field checking, validate maximum character limit handling, validate format for field Name and validate minimum character 
-  * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rSBOj0qGZFuLkgbEySVLgEsrHukN35EuBw-wgmMHNjY/edit?usp=sharing)
+* Koridor Utiliti Johor Sdn Bhd (KUJ) - (https://docs.google.com/document/d/1l3mqHFB5AG0Yr1qw19Zcd7BssGtAB-bAr2Y4-5YMo0A/edit?usp=sharing) (https://docs.google.com/document/d/1BxnE2qKp5W7tuqqMqwPPPrFWjW1ZTOcgr3iGEr8zkBQ/edit?usp=sharing) (https://docs.google.com/document/d/1pJBB1PMLjjxG1bbrx67toxlLKTr_MKGvY2eeaSmZiHo/edit?usp=sharing)
+* iBuyback - (https://docs.google.com/document/d/1UfAkzAX2bb6rHT8Z_YDaGz-7ZGcp5i_e/edit?usp=drive_link&ouid=104427873728727484217&rtpof=true&sd=true)
+* Celcom Checkpoint - (https://docs.google.com/document/d/1H4RRxusv6ROMR_lCj9iogHsBUQIz-MIZDFwzKEwkMIE/edit?usp=sharing)
+* SWAPP - (https://docs.google.com/document/d/1ykdRKB_PTUDCpiPMHTiljUbu0b9EXrPa/edit?usp=sharing&ouid=104427873728727484217&rtpof=true&sd=true)
 
 ## Bug reports and work in Jira
