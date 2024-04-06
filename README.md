@@ -84,3 +84,5 @@ Here showcase how many bugs created, reported and fixed, new feature requested b
 * SWAPP - (https://docs.google.com/document/d/1ykdRKB_PTUDCpiPMHTiljUbu0b9EXrPa/edit?usp=sharing&ouid=104427873728727484217&rtpof=true&sd=true)
 
 ## Bug reports and work in Jira
+Bug Report I did - (https://drive.google.com/file/d/1DwgBZ8g5xalSzNNcBXRW_nPUWPVZ6Jmc/view?usp=sharing)
+Overall Bug Report - (https://drive.google.com/file/d/1MSoQxtIxcxDt4IW0Z7A2vzcMo5gDMlZJ/view?usp=sharing)
